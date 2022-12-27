@@ -1,0 +1,58 @@
+name: AdventJS
+
+on:
+  push:
+    paths:
+      - './**'
+      - '.github/workflows/adventjs.yml'
+    branches: [main]
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize]
+
+defaults:
+  run:
+    working-directory: ./
+
+jobs:
+  linter:
+    name: ✅ Validate linter
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Checkout project
+        uses: actions/checkout@v3
+
+      - name: 🟢 Setup NodeJS 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: './package-lock.json'
+
+      - name: 📥 Install dependencies
+        run: npm ci
+
+      - name: 📑 Check lint
+        run: npm run lint
+
+  test:
+    name: 🧑‍🔬 Test project
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Checkout project
+        uses: actions/checkout@v3
+
+      - name: 🟢 Setup NodeJS 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: './package-lock.json'
+
+      - name: 📥 Install dependencies
+        run: npm ci
+
+      - name: 🧪 Run challenges
+        run: npm run test

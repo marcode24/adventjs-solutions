@@ -1,0 +1,29 @@
+{
+  "name": "adventjs-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:2021": "jest --testPathPattern=2021",
+    "test:2022": "jest --testPathPattern=2022",
+    "lint": "eslint **/*.js",
+    "lint:fix": "eslint **/*.js --fix"
+  },
+  "keywords": [
+    "midudev",
+    "javascript",
+    "adventjs",
+    "adventjs-2022",
+    "adventjs-2022-solutions",
+    "adventjs-2022-solutions-javascript"
+  ],
+  "author": "marcode24",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^29.3.1"
+  }
+}
