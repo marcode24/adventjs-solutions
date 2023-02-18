@@ -11,6 +11,7 @@ module.exports = {
     ecmaVersion: 'latest',
   },
   rules: {
+    'max-len': ['error', { code: 120 }],
     'linebreak-style': 'off',
     'no-plusplus': 'off',
     'no-param-reassign': 'off',
