@@ -8,7 +8,8 @@
     "test:2021": "jest --testPathPattern=2021",
     "test:2022": "jest --testPathPattern=2022",
     "lint": "eslint **/*.js",
-    "lint:fix": "eslint **/*.js --fix"
+    "lint:fix": "eslint **/*.js --fix",
+    "prepare": "husky install"
   },
   "keywords": [
     "midudev",
@@ -24,7 +25,9 @@
     "eslint": "^8.30.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "jest": "^29.3.1"
+    "husky": "^8.0.3",
+    "jest": "^29.3.1",
+    "lint-staged": "^13.1.2"
   },
   "repository": {
     "type": "git",
