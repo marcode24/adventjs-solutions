@@ -1,0 +1,13 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+export FORCE_COLOR=1
+
+echo '🧪 Running tests before pushing!'
+
+npm run test || (
+  echo '❌ Ooops! Tests have failed!';
+  false;
+)
+
+echo '✅ Tests have been successfully completed!';

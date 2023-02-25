@@ -9,7 +9,9 @@ describe('21 => Tabla de regalos', () => {
           { name: 'Book Learn Web Dev', quantity: 23531 },
         ],
       ],
-      output: '++++++++++++++++++++++++++++++++++++++\n| Gift               | Quantity      |\n| ------------------ | ------------- |\n| PlayStation 5      | 9234782374892 |\n| Book Learn Web Dev | 23531         |\n**************************************',
+      output: '++++++++++++++++++++++++++++++++++++++\n| Gift               | Quantity      |'
+      + '\n| ------------------ | ------------- |\n| PlayStation 5      | 9234782374892 |\n| '
+      + 'Book Learn Web Dev | 23531         |\n**************************************',
     },
     {
       input: [
@@ -19,7 +21,8 @@ describe('21 => Tabla de regalos', () => {
           { name: 'Book', quantity: 3 },
         ],
       ],
-      output: '+++++++++++++++++++\n| Gift | Quantity |\n| ---- | -------- |\n| Game | 2        |\n| Bike | 1        |\n| Book | 3        |\n*******************',
+      output: '+++++++++++++++++++\n| Gift | Quantity |\n| ---- | -------- |\n'
+      + '| Game | 2        |\n| Bike | 1        |\n| Book | 3        |\n*******************',
     },
     {
       input: [
@@ -35,7 +38,8 @@ describe('21 => Tabla de regalos', () => {
           { name: 'Game', quantity: 1234567890 },
         ],
       ],
-      output: '+++++++++++++++++++++\n| Gift | Quantity   |\n| ---- | ---------- |\n| Game | 1234567890 |\n*********************',
+      output: '+++++++++++++++++++++\n| Gift | Quantity   |\n| ---- | ---------- |\n'
+      + '| Game | 1234567890 |\n*********************',
     },
     {
       input: [
@@ -44,7 +48,8 @@ describe('21 => Tabla de regalos', () => {
           { name: 'Mic', quantity: 123 },
         ],
       ],
-      output: '+++++++++++++++++++\n| Gift | Quantity |\n| ---- | -------- |\n| Toy  | 12       |\n| Mic  | 123      |\n*******************',
+      output: '+++++++++++++++++++\n| Gift | Quantity |\n| ---- | -------- |\n'
+      + '| Toy  | 12       |\n| Mic  | 123      |\n*******************',
     },
   ];
 
