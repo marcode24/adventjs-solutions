@@ -1,12 +1,13 @@
 {
   "name": "adventjs-solutions",
   "version": "1.0.0",
-  "description": "",
+  "description": "Solutions for AdventJS 2022",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:2021": "jest --testPathPattern=2021",
     "test:2022": "jest --testPathPattern=2022",
+    "test:2023": "jest --testPathPattern=2023",
     "lint": "eslint **/*.js",
     "lint:fix": "eslint **/*.js --fix",
     "prepare": "husky install"
@@ -17,10 +18,13 @@
     "adventjs",
     "adventjs-2022",
     "adventjs-2022-solutions",
-    "adventjs-2022-solutions-javascript"
+    "adventjs-2022-solutions-javascript",
+    "adventjs-2023",
+    "adventjs-2023-solutions",
+    "adventjs-2023-solutions-javascript"
   ],
   "author": "marcode24",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^8.30.0",
     "eslint-config-airbnb-base": "^15.0.0",
