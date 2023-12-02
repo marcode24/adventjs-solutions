@@ -6,6 +6,20 @@ This is a repository with my solutions to the [AdventJS](https://adventjs.dev/) 
 
 Built by [@midudev](https://twitter.com/midudev)
 
+## 🎯 2023 Challenges
+
+<details>
+<summary show>Show / Hide</summary>
+
+|  #  | Challenge                                                                                   | Difficulty |                                            My Solution                                             |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------: |
+| 01  | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2023/1)                       |     🟢     |  [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/01-primer-regalo-repetido)  |
+
+Difficulties legend:
+🟢 Easy 🟡 Medium 🔴 Hard
+
+</details>
+
 ## 🎯 2022 Challenges
 
 <details hide>
@@ -68,6 +82,8 @@ npm run test
 npm run test:2021
 # or
 npm run test:2022
+# or
+npm run test:2023
 
 # Run specific test
 npm run test 'year'/'challenge'/index.test.js
