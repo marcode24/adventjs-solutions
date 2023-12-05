@@ -8,12 +8,15 @@ Built by [@midudev](https://twitter.com/midudev)
 
 ## 🎯 2023 Challenges
 
-<details>
-<summary show>Show / Hide</summary>
+<details open>
+<summary>Show / Hide</summary>
 
-|  #  | Challenge                                                                                   | Difficulty |                                            My Solution                                             |
-| :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------: |
-| 01  | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2023/1)                       |     🟢     |  [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/01-primer-regalo-repetido)  |
+|  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                           |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------:  |
+| 01  | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2023/1)                       |     🟢     |        [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/01-primer-regalo-repetido)         |
+| 02  | [Ponemos en marcha la fábrica](https://adventjs.dev/es/challenges/2023/2)                   |     🟢     |       [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/02-ponemos-en-marcha-la-fabrica)    |
+| 03  | [El elfo travieso](https://adventjs.dev/es/challenges/2023/3)                               |     🟢     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/03-el-elfo-travieso)        |
+| 04  | [Dale la vuelta a los paréntesis](https://adventjs.dev/es/challenges/2023/4)                |     🟡     |   [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/04-dale-la-vuelta-a-los-parentesis)     |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
