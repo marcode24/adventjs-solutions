@@ -1,10 +1,54 @@
-# 🎄 AdventJS Solutions
+<div align="center">
+  <img
+    alt="adventjs-2023"
+    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1701756989/Challenges/u0qn1htendtskutrml9j.png"
+    width="1200"
+    style="border-radius: 1rem" />
+  <br />
+  <br />
 
-This is a repository with my solutions to the [AdventJS](https://adventjs.dev/) challenges.
+  <h1>🎄 AdventJS Solutions</h1>
 
-<img alt="AdventJS 2022" src="https://res.cloudinary.com/dfeujtobk/image/upload/v1671158324/Challenges/adventjs-2022_ek7lhr.png" width="1200" />
+  ![Version](https://img.shields.io/github/package-json/v/marcode24/adventjs-solutions?style=popout&logo=npm)
+  ![GitHub CI Workflow Status](https://img.shields.io/github/actions/workflow/status/marcode24/adventjs-solutions/adventjs.yml?branch=main&style=popout&logo=testcafe&label=tests)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/marcode24/adventjs-solutions?style=popout&logo=github&label=repo%20size)
+  ![GitHub](https://img.shields.io/github/license/marcode24/adventjs-solutions?style=popout&logo=github&label=license)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/marcode24/adventjs-solutions?style=popout&logo=apachespark&color=yellow&logoColor=yellow)
+  ![Github repo views](https://img.shields.io/github/search/marcode24/adventjs-solutions/adventjs-solutions?style=popout&logo=github&label=repo%20views)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/marcode24/adventjs-solutions?style=popout&logo=git&label=last%20commit)
 
-Built by [@midudev](https://twitter.com/midudev)
+</div>
+
+## ℹ️ About
+
+This repository contains my solutions to the [AdventJS](https://adventjs.dev/) challenges. Built by [@midudev](https://twitter.com/midudev)
+
+## 📥 Installation & Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/marcode24/adventjs-solutions
+
+# Go into the repository
+cd adventjs-solutions
+
+# Install dependencies
+npm install
+
+# Run tests
+npm run test
+
+# Run specific year tests
+npm run test:2021
+# or
+npm run test:2022
+# or
+npm run test:2023
+
+# Run specific test
+npm run test 'year'/'challenge'/index.test.js
+
+```
 
 ## 🎯 2023 Challenges
 
@@ -65,30 +109,3 @@ Difficulties legend:
 <details hide>
 <summary>Show / Hide</summary>
 </details>
-
-## 📥 Installation & Usage
-
-```bash
-# Clone the repository
-git clone https://github.com/marcode24/adventjs-solutions
-
-# Go into the repository
-cd adventjs-solutions
-
-# Install dependencies
-npm install
-
-# Run tests
-npm run test
-
-# Run specific year tests
-npm run test:2021
-# or
-npm run test:2022
-# or
-npm run test:2023
-
-# Run specific test
-npm run test 'year'/'challenge'/index.test.js
-
-```
