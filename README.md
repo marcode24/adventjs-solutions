@@ -61,6 +61,12 @@ npm run test 'year'/'challenge'/index.test.js
 | 02  | [Ponemos en marcha la fábrica](https://adventjs.dev/es/challenges/2023/2)                   |     🟢     |       [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/02-ponemos-en-marcha-la-fabrica)    |
 | 03  | [El elfo travieso](https://adventjs.dev/es/challenges/2023/3)                               |     🟢     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/03-el-elfo-travieso)        |
 | 04  | [Dale la vuelta a los paréntesis](https://adventjs.dev/es/challenges/2023/4)                |     🟡     |   [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/04-dale-la-vuelta-a-los-parentesis)     |
+| 05  | [El cybertruck de santa](https://adventjs.dev/es/challenges/2023/5)                         |     🟡     |        [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/05-el-cybertruck-de-santa)         |
+| 06  | [Los renos a prueba](https://adventjs.dev/es/challenges/2023/6)                             |     🟢     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/06-los-renos-a-prueba)      |
+| 07  | [Las cajas en 3D](https://adventjs.dev/es/challenges/2023/7)                                |     🟢     |                  [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/07-las-cajas-en-3d)      |
+| 08  | [Ordenando el almácen](https://adventjs.dev/es/challenges/2023/8)                           |     🟡     |                [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/08-ordenando-el-almacen)   |
+| 09  | [Alterna las luces](https://adventjs.dev/es/challenges/2023/9)                              |     🟢     |             [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/09-alterna-las-luces)         |
+| 10  | [Crea tu propio árbol de navidad](https://adventjs.dev/es/challenges/2023/10)               |     🟢     |    [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/10-crea-tu-propio-arbol-de-navidad)    |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
