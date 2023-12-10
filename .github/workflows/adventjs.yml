@@ -2,17 +2,10 @@ name: AdventJS
 
 on:
   push:
-    paths:
-      - './**'
-      - '.github/workflows/adventjs.yml'
     branches: [main]
   pull_request:
     branches: [main]
     types: [opened, synchronize]
-
-defaults:
-  run:
-    working-directory: ./
 
 jobs:
   linter:
