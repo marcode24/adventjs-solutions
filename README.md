@@ -114,4 +114,17 @@ Difficulties legend:
 
 <details hide>
 <summary>Show / Hide</summary>
+
+|  #  | Challenge                                                                                   | Difficulty |                                            My Solution                                                       |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------:     |
+| 01  | [Contando ovejas para dormir](https://2021.adventjs.dev/challenges/01)                      |     🟢     | [here](https://github.com/marcode24/adventjs-solutions/tree/main/2021/01-contando-ovejas-para-dormir)        |
+| 02  | [Ayuda al elfo a listar los regalos](https://2021.adventjs.dev/challenges/02)               |     🟢     | [here](https://github.com/marcode24/adventjs-solutions/tree/main/2021/02-ayuda-al-elfo-a-listar-los-regalos) |
+| 05  | [Contando los dias para los regalos](https://2021.adventjs.dev/challenges/05)               |     🟢     | [here](https://github.com/marcode24/adventjs-solutions/tree/main/2021/05-contando-los-dias-para-los-regalos) |
+| 13  | [Envuelve regalos con asteriscos](https://2021.adventjs.dev/challenges/13)                  |     🟢     | [here](https://github.com/marcode24/adventjs-solutions/tree/main/2021/13-envuelve-regalos-con-asteriscos)    |
+| 16  | [Descifrando los números...](https://2021.adventjs.dev/challenges/16)                       |     🟢     | [here](https://github.com/marcode24/adventjs-solutions/tree/main/2021/16-descifrando-los-numeros)            |
+| 20  | [¿Una carta de pangramas?¡QUE!](https://2021.adventjs.dev/challenges/20)                    |     🟢     | [here](https://github.com/marcode24/adventjs-solutions/tree/main/2021/20-una-carta-de-pangramas-que)         |
+
+Difficulties legend:
+🟢 Easy 🟡 Medium 🔴 Hard
+
 </details>
