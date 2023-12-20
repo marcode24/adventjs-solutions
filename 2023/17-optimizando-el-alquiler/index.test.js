@@ -29,10 +29,10 @@ describe('17 => Optimizando el alquiler', () => {
   ];
 
   it('should return an array type', () => {
-    expect(Array.isArray(optimizeIntervals(...testCases[0].input))).toBe(true);
+    expect(Array.isArray(optimizeIntervals([...testCases[0].input]))).toBe(true);
   });
 
   it.each(testCases)('should return the correct output', (testCase) => {
-    expect(optimizeIntervals(...testCase.input)).toEqual(testCase.output);
+    expect(optimizeIntervals([...testCase.input])).toEqual(testCase.output);
   });
 });
