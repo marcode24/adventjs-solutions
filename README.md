@@ -67,6 +67,19 @@ npm run test 'year'/'challenge'/index.test.js
 | 08  | [Ordenando el almácen](https://adventjs.dev/es/challenges/2023/8)                           |     🟡     |                [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/08-ordenando-el-almacen)   |
 | 09  | [Alterna las luces](https://adventjs.dev/es/challenges/2023/9)                              |     🟢     |             [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/09-alterna-las-luces)         |
 | 10  | [Crea tu propio árbol de navidad](https://adventjs.dev/es/challenges/2023/10)               |     🟢     |    [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/10-crea-tu-propio-arbol-de-navidad)    |
+| 11  | [Los elfos estudiosos](https://adventjs.dev/es/challenges/2023/11)                          |     🟡     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/11-los-elfos-estudiosos)    |
+| 13  | [Calculando el tiempo](https://adventjs.dev/es/challenges/2023/13)                          |     🟢     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/13-calculando-el-tiempo)    |
+| 14  | [Evita la alarma](https://adventjs.dev/es/challenges/2023/14)                               |     🟡     |                [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/14-evita-la-alarma)        |
+| 15  | [Robot autónomo](https://adventjs.dev/es/challenges/2023/15)                                |     🟡     |                 [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/15-robot-autonomo)        |
+| 16  | [Despliegue en viernes](https://adventjs.dev/es/challenges/2023/16)                         |     🟢     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/16-despliegue-en-viernes)   |
+| 17  | [Optimizando el alquiler](https://adventjs.dev/es/challenges/2023/17)                       |     🟢     |             [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/17-optimizando-el-alquiler)   |
+| 18  | [El reloj digital](https://adventjs.dev/es/challenges/2023/18)                              |     🔴     |                  [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/18-el-reloj-digital)     |
+| 19  | [Enfrenta el sabotaje](https://adventjs.dev/es/challenges/2023/19)                          |     🟡     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/19-enfrenta-el-sabotaje)    |
+| 20  | [Distribuye el peso](https://adventjs.dev/es/challenges/2023/20)                            |     🔴     |                 [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/20-distribuye-el-peso)    |
+| 21  | [Mensaje binario](https://adventjs.dev/es/challenges/2023/21)                               |     🟡     |                  [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/21-mensaje-binario)      |
+| 22  | [Lenguaje de programación](https://adventjs.dev/es/challenges/2023/22)                      |     🟢     |             [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/22-lenguaje-de-programacion)  |
+| 23  | [La comida de navidad](https://adventjs.dev/es/challenges/2023/23)                          |     🟢     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/23-la-comida-de-navidad)    |
+| 24  | [Brincos en la escalera](https://adventjs.dev/es/challenges/2023/24)                        |     🟡     |             [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/24-brincos-en-la-escalera)    |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
