@@ -80,6 +80,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 22  | [Lenguaje de programación](https://adventjs.dev/es/challenges/2023/22)                      |     🟢     |             [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/22-lenguaje-de-programacion)  |
 | 23  | [La comida de navidad](https://adventjs.dev/es/challenges/2023/23)                          |     🟢     |               [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/23-la-comida-de-navidad)    |
 | 24  | [Brincos en la escalera](https://adventjs.dev/es/challenges/2023/24)                        |     🟡     |             [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/24-brincos-en-la-escalera)    |
+| 25  | [Calculando distancias](https://adventjs.dev/challenges/2023/25)                            |     🟡     |         [here](https://github.com/marcode24/adventjs-solutions/tree/main/2023/25-calculando-distancias)         |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
