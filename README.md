@@ -1,7 +1,7 @@
 <div align="center">
   <img
     alt="adventjs-2024"
-    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1733035253/advent-js/Apex_1733035172447_syuzaa.png"
+    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1733037388/advent-js/685_1x_shots_so_btikod.png"
     width="1200"
     style="border-radius: 1rem" />
   <br />
