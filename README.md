@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    alt="adventjs-2023"
-    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1701756989/Challenges/u0qn1htendtskutrml9j.png"
+    alt="adventjs-2024"
+    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1733035253/advent-js/Apex_1733035172447_syuzaa.png"
     width="1200"
     style="border-radius: 1rem" />
   <br />
@@ -44,15 +44,31 @@ npm run test:2021
 npm run test:2022
 # or
 npm run test:2023
+# or
+npm run test:2024
 
 # Run specific test
 npm run test 'year'/'challenge'/index.test.js
 
 ```
 
-## 🎯 2023 Challenges
+## 🎯 2024 Challenges
 
 <details open>
+<summary>Show / Hide</summary>
+
+|  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                           |   My Score    |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------:  | :-----------: |
+| 01  | [🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)                       |     🟢     |                        [here](./2024/01-primer-regalo-repetido/index.js)                                        |  ⭐⭐⭐⭐⭐  |
+
+Difficulties legend:
+🟢 Easy 🟡 Medium 🔴 Hard
+
+</details>
+
+## 🎯 2023 Challenges
+
+<details hide>
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                           |
