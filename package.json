@@ -8,9 +8,15 @@
     "test:2021": "jest --testPathPattern=2021",
     "test:2022": "jest --testPathPattern=2022",
     "test:2023": "jest --testPathPattern=2023",
+    "test:2024": "jest --testPathPattern=2024",
     "lint": "eslint **/*.js",
     "lint:fix": "eslint **/*.js --fix",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "postinstall": "npm run prepare"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
   },
   "keywords": [
     "midudev",
