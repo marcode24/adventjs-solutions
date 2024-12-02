@@ -17,6 +17,6 @@ module.exports = {
     'no-param-reassign': 'off',
     'no-unused-expressions': 'off',
     'no-return-assign': 'off',
-    'operator-linebreak': ['error', 'after'],
+    'operator-linebreak': ['error', 'before'],
   },
 };
