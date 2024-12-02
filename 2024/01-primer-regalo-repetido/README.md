@@ -18,3 +18,27 @@ const preparedGifts3 = prepareGifts(gifts3)
 console.log(preparedGifts3) // []
 // No hay regalos, la lista queda vacía
 ```
+
+## Mi solución explicada
+
+```js
+function prepareGifts(gifts) {
+  return [...new Set(gifts)].sort((a, b) => a - b);
+}
+```
+
+Primero, creamos un nuevo `Set` a partir de la lista de regalos. Un `Set` es una colección de valores únicos, por lo que automáticamente elimina los duplicados.
+
+```js
+[...new Set(gifts)]
+```
+
+Después, convertimos el `Set` en un array con el operador de propagación (`...`) y lo ordenamos en orden ascendente con el método `sort`.
+
+Hay que tener en cuenta que el trabajar con números, el método `sort` por defecto ordena los elementos como si fueran cadenas de texto. Por lo tanto, es necesario pasar una función de comparación que convierta los elementos a números antes de compararlos.
+
+```js
+[...new Set(gifts)].sort((a, b) => a - b)
+```
+
+Finalmente, devolvemos el array resultante.
