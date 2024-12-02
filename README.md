@@ -57,9 +57,10 @@ npm run test 'year'/'challenge'/index.test.js
 <details open>
 <summary>Show / Hide</summary>
 
-|  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                           |   My Score    |
-| :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------:  | :-----------: |
-| 01  | [🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)                       |     🟢     |                        [here](./2024/01-primer-regalo-repetido/index.js)                                        |  ⭐⭐⭐⭐⭐  |
+|  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                       |   My Score    |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------------------------:  | :-----------: |
+| 01  | [🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)                    |     🟢     |                        [here](./2024/01-primer-regalo-repetido/index.js)                                    |  ⭐⭐⭐⭐⭐  |
+| 02  | [🖼️ Enmarcando nombres](https://adventjs.dev/es/challenges/2024/2)                          |     🟢     |                        [here](./2024/02-enmarcando-nombres/index.js)                                        |  ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
