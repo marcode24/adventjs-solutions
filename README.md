@@ -62,6 +62,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 01  | [🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)                    |     🟢     |                        [here](./2024/01-primer-regalo-repetido/index.js)                                    |  ⭐⭐⭐⭐⭐  |
 | 02  | [🖼️ Enmarcando nombres](https://adventjs.dev/es/challenges/2024/2)                          |     🟢     |                        [here](./2024/02-enmarcando-nombres/index.js)                                        |  ⭐⭐⭐⭐⭐  |
 | 03  | [🏗️ Organizando el inventario](https://adventjs.dev/es/challenges/2024/3)                   |     🟢     |                        [here](./2024/03-organizando-el-inventario/index.js)                                 |  ⭐⭐⭐⭐⭐  |
+| 04  | [🎄 Decorando el árbol de Navidad](https://adventjs.dev/es/challenges/2024/4)               |     🟡     |                        [here](./2024/04-decorando-el-arbol-de-navidad/index.js)                             |  ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
