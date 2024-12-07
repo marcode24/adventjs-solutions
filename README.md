@@ -64,6 +64,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 03  | [🏗️ Organizando el inventario](https://adventjs.dev/es/challenges/2024/3)                   |     🟢     |                        [here](./2024/03-organizando-el-inventario/index.js)                                 |  ⭐⭐⭐⭐⭐  |
 | 04  | [🎄 Decorando el árbol de Navidad](https://adventjs.dev/es/challenges/2024/4)               |     🟡     |                        [here](./2024/04-decorando-el-arbol-de-navidad/index.js)                             |  ⭐⭐⭐⭐⭐  |
 | 05  | [👢 Emparejando botas](https://adventjs.dev/es/challenges/2024/5)                           |     🟢     |                        [here](./2024/05-emparejando-botas/index.js)                                         |  ⭐⭐⭐⭐⭐  |
+| 06  | [🎁 ¿Regalo dentro de la caja?](https://adventjs.dev/es/challenges/2024/6)                  |     🟡     |                        [here](./2024/06-regalo-dentro-de-la-caja/index.js)                                  |  ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
