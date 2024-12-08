@@ -58,7 +58,7 @@ npm run test 'year'/'challenge'/index.test.js
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                       |   My Score    |
-| :-: | ------------------------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------------------------:  | :-----------: |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------------------------:  | :-----------  |
 | 01  | [🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)                    |     🟢     |                        [here](./2024/01-primer-regalo-repetido/index.js)                                    |  ⭐⭐⭐⭐⭐  |
 | 02  | [🖼️ Enmarcando nombres](https://adventjs.dev/es/challenges/2024/2)                          |     🟢     |                        [here](./2024/02-enmarcando-nombres/index.js)                                        |  ⭐⭐⭐⭐⭐  |
 | 03  | [🏗️ Organizando el inventario](https://adventjs.dev/es/challenges/2024/3)                   |     🟢     |                        [here](./2024/03-organizando-el-inventario/index.js)                                 |  ⭐⭐⭐⭐⭐  |
@@ -66,6 +66,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 05  | [👢 Emparejando botas](https://adventjs.dev/es/challenges/2024/5)                           |     🟢     |                        [here](./2024/05-emparejando-botas/index.js)                                         |  ⭐⭐⭐⭐⭐  |
 | 06  | [🎁 ¿Regalo dentro de la caja?](https://adventjs.dev/es/challenges/2024/6)                  |     🟡     |                        [here](./2024/06-regalo-dentro-de-la-caja/index.js)                                  |  ⭐⭐⭐⭐⭐  |
 | 07  | [🎅🏼 El ataque del Grinch](https://adventjs.dev/es/challenges/2024/7)                        |     🟡     |                        [here](./2024/07-el-ataque-del-grinch/index.js)                                      |  ⭐⭐⭐⭐    |
+| 08  | [🦌 La carrera de renos](https://adventjs.dev/es/challenges/2024/8)                         |     🟢     |                        [here](./2024/08-la-carrera-de-renos/index.js)                                       |  ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
