@@ -72,13 +72,15 @@ Luego, obtengo el índice del último punto `.` con el método `lastIndexOf()`:
 
 ```js
 // const lastDotIndex = '2023122512345678_sleighDesign.png.grinchwa'.lastIndexOf('.');
-const lastDotIndex = filename.lastIndexOf('.'); // 29
+const lastDotIndex = filename.lastIndexOf('.'); // 33
 ```
 
 Finalmente, utilizo el método `slice()` para extraer la parte del string que necesitamos:
 
 ```js
 // return '2023122512345678_sleighDesign.png.grinchwa'.slice(underscoreIndex + 1, lastDotIndex);
+// return '2023122512345678_sleighDesign.png.grinchwa'.slice(16 + 1, 33);
+// return '2023122512345678_sleighDesign.png.grinchwa'.slice(17, 33);
 return filename.slice(underscoreIndex + 1, lastDotIndex); // "sleighDesign.png"
 ```
 
