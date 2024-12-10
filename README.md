@@ -68,6 +68,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 07  | [🎅🏼 El ataque del Grinch](https://adventjs.dev/es/challenges/2024/7)                        |     🟡     |                        [here](./2024/07-el-ataque-del-grinch/index.js)                                      |  ⭐⭐⭐⭐⭐  |
 | 08  | [🦌 La carrera de renos](https://adventjs.dev/es/challenges/2024/8)                         |     🟢     |                        [here](./2024/08-la-carrera-de-renos/index.js)                                       |  ⭐⭐⭐⭐⭐  |
 | 09  | [🚂 El tren mágico](https://adventjs.dev/es/challenges/2024/9)                              |     🟡     |                        [here](./2024/09-el-tren-magico/index.js)                                            |  ⭐⭐⭐⭐⭐  |
+| 10  | [🧑‍💻 El ensamblador élfico](https://adventjs.dev/es/challenges/2024/10)                      |     🟡     |                        [here](./2024/10-el-ensamblador-elfico/index.js)                                     |  ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
