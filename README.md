@@ -70,6 +70,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 09  | [🚂 El tren mágico](https://adventjs.dev/es/challenges/2024/9)                              |     🟡     |                        [here](./2024/09-el-tren-magico/index.js)                                            |  ⭐⭐⭐⭐⭐  |
 | 10  | [🧑‍💻 El ensamblador élfico](https://adventjs.dev/es/challenges/2024/10)                      |     🟡     |                        [here](./2024/10-el-ensamblador-elfico/index.js)                                     |  ⭐⭐⭐⭐⭐  |
 | 11  | [📂 Nombres de archivos codificados](https://adventjs.dev/es/challenges/2024/11)            |     🟢     |                        [here](./2024/11-nombres-de-archivos-codificados/index.js)                           |  ⭐⭐⭐⭐⭐  |
+| 12  | [🎄 ¿Cuánto cuesta el árbol?](https://adventjs.dev/es/challenges/2024/12)                   |     🟢     |                        [here](./2024/12-cuanto-cuesta-el-arbol/index.js)                                    |  ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
