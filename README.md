@@ -74,6 +74,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 13  | [🤖 ¿El robot está de vuelta?](https://adventjs.dev/es/challenges/2024/13)                  |     🔴     |  [here](./2024/13-el-robot-esta-de-vuelta/index.js)           |  [here](./2024/13-el-robot-esta-de-vuelta/README.md#mi-solución-explicada)         | ⭐⭐⭐⭐⭐  |
 | 14  | [🦌 Acomodando los renos](https://adventjs.dev/es/challenges/2024/14)                       |     🟢     |  [here](./2024/14-acomodando-los-renos/index.js)              |  [here](./2024/14-acomodando-los-renos/README.md#mi-solución-explicada)            | ⭐⭐⭐⭐⭐  |
 | 15  | [✏️ Dibujando tablas](https://adventjs.dev/es/challenges/2024/15)                           |     🟢     |  [here](./2024/15-dibujando-tablas/index.js)                  |  [here](./2024/15-dibujando-tablas/README.md#mi-solución-explicada)                | ⭐⭐⭐⭐⭐  |
+| 16  | [❄️ Limpiando la nieve del camino](https://adventjs.dev/es/challenges/2024/16)              |     🟢     |  [here](./2024/16-limpiando-la-nieve-del-camino/index.js)     |  [here](./2024/16-limpiando-la-nieve-del-camino/README.md#mi-solución-explicada)   | ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
