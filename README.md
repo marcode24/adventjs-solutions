@@ -75,6 +75,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 14  | [🦌 Acomodando los renos](https://adventjs.dev/es/challenges/2024/14)                       |     🟢     |  [here](./2024/14-acomodando-los-renos/index.js)              |  [here](./2024/14-acomodando-los-renos/README.md#mi-solución-explicada)            | ⭐⭐⭐⭐⭐  |
 | 15  | [✏️ Dibujando tablas](https://adventjs.dev/es/challenges/2024/15)                           |     🟢     |  [here](./2024/15-dibujando-tablas/index.js)                  |  [here](./2024/15-dibujando-tablas/README.md#mi-solución-explicada)                | ⭐⭐⭐⭐⭐  |
 | 16  | [❄️ Limpiando la nieve del camino](https://adventjs.dev/es/challenges/2024/16)              |     🟢     |  [here](./2024/16-limpiando-la-nieve-del-camino/index.js)     |  [here](./2024/16-limpiando-la-nieve-del-camino/README.md#mi-solución-explicada)   | ⭐⭐⭐⭐⭐  |
+| 17  | [💣 Busca las bombas del Grinch](https://adventjs.dev/es/challenges/2024/17)                |     🟡     |  [here](./2024/17-busca-las-bombas-del-grinch/index.js)       |  [here](./2024/17-busca-las-bombas-del-grinch/README.md#mi-solución-explicada)     | ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
