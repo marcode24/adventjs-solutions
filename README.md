@@ -77,6 +77,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 16  | [❄️ Limpiando la nieve del camino](https://adventjs.dev/es/challenges/2024/16)                  |     🟢     |  [here](./2024/16-limpiando-la-nieve-del-camino/index.js)                 |  [here](./2024/16-limpiando-la-nieve-del-camino/README.md#mi-solución-explicada)                  | ⭐⭐⭐⭐⭐  |
 | 17  | [💣 Busca las bombas del Grinch](https://adventjs.dev/es/challenges/2024/17)                    |     🟡     |  [here](./2024/17-busca-las-bombas-del-grinch/index.js)                   |  [here](./2024/17-busca-las-bombas-del-grinch/README.md#mi-solución-explicada)                    | ⭐⭐⭐⭐⭐  |
 | 20  | [🎁 Encuentra los regalos faltantes y duplicados](https://adventjs.dev/es/challenges/2024/20)   |     🟢     |  [here](./2024/20-encuentra-los-regalos-faltantes-y-duplicados/index.js)  |  [here](./2024/20-encuentra-los-regalos-faltantes-y-duplicados/README.md#mi-solución-explicada)   | ⭐⭐⭐⭐⭐  |
+| 21  | [🎄 Calcula la altura del árbol de Navidad](https://adventjs.dev/es/challenges/2024/21)         |     🟢     |  [here](./2024/21-calcula-la-altura-del-arbol-de-navidad/index.js)        |  [here](./2024/21-calcula-la-altura-del-arbol-de-navidad/README.md#mi-solución-explicada)         | ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
