@@ -26,6 +26,14 @@ findDisappearedNumbers([5, 5, 5, 3, 3, 2, 1])
 
 ## Mi solución explicada
 
+**NOTA** Para correr este código necesitas la versión 22 o superior de Node.js. En caso contrario, puedes crear una función `difference` que haga lo mismo que `Set.prototype.difference`.
+
+```js
+Set.prototype.difference = function (set) {
+  return new Set([...this].filter((x) => !set.has(x)));
+};
+```
+
 ```js
 function findMissingNumbers(nums) {
   const maxNumber = Math.max(...nums);
