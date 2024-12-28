@@ -83,6 +83,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 22  | [🎁 Genera combinaciones de regalos](https://adventjs.dev/es/challenges/2024/22)                |     🟡     |  [here](./2024/22-genera-combinaciones-de-regalos/index.js)               |  [here](./2024/22-genera-combinaciones-de-regalos/README.md#mi-solución-explicada)                | ⭐⭐⭐⭐⭐  |
 | 23  | [🔢 Encuentra los números perdidos](https://adventjs.dev/es/challenges/2024/23)                 |     🟢     |  [here](./2024/23-encuentra-los-numeros-perdidos/index.js)                |  [here](./2024/23-encuentra-los-numeros-perdidos/README.md#mi-solución-explicada)                 | ⭐⭐⭐⭐⭐  |
 | 24  | [🪞 Verifica si los árboles son espejos mágicos](https://adventjs.dev/es/challenges/2024/24)    |     🟡     |  [here](./2024/24-verifica-si-los-arboles-son-espejos-magicos/index.js)   |  [here](./2024/24-verifica-si-los-arboles-son-espejos-magicos/README.md#mi-solución-explicada)    | ⭐⭐⭐⭐⭐  |
+| 25  | [🧙‍♂️ Ejecuta el lenguaje mágico](https://adventjs.dev/es/challenges/2024/25)                     |     🟡     |  [here](./2024/25-ejecuta-el-lenguaje-magico/index.js)                    |  [here](./2024/25-ejecuta-el-lenguaje-magico/README.md#mi-solución-explicada)                     | ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
