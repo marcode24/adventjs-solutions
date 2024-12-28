@@ -84,9 +84,18 @@ npm run test 'year'/'challenge'/index.test.js
 | 23  | [🔢 Encuentra los números perdidos](https://adventjs.dev/es/challenges/2024/23)                 |     🟢     |  [here](./2024/23-encuentra-los-numeros-perdidos/index.js)                |  [here](./2024/23-encuentra-los-numeros-perdidos/README.md#mi-solución-explicada)                 | ⭐⭐⭐⭐⭐  |
 | 24  | [🪞 Verifica si los árboles son espejos mágicos](https://adventjs.dev/es/challenges/2024/24)    |     🟡     |  [here](./2024/24-verifica-si-los-arboles-son-espejos-magicos/index.js)   |  [here](./2024/24-verifica-si-los-arboles-son-espejos-magicos/README.md#mi-solución-explicada)    | ⭐⭐⭐⭐⭐  |
 | 25  | [🧙‍♂️ Ejecuta el lenguaje mágico](https://adventjs.dev/es/challenges/2024/25)                     |     🟡     |  [here](./2024/25-ejecuta-el-lenguaje-magico/index.js)                    |  [here](./2024/25-ejecuta-el-lenguaje-magico/README.md#mi-solución-explicada)                     | ⭐⭐⭐⭐⭐  |
+| 26  | [📊 Calcula el porcentaje completado](https://adventjs.dev/es/challenges/2024/26)               |     🟢     |  [here](./2024/26-calcula-el-porcentaje-completado/index.js)              |  [here](./2024/26-calcula-el-porcentaje-completado/README.md#mi-solución-explicada)               | ⭐⭐⭐⭐⭐  |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
+
+**My results:**
+
+<img
+    alt="adventjs-2024-results"
+    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1735374368/advent-js/results/25eba94f-c29f-495c-9140-3f86598d6b3c.png"
+    width="800"
+    style="border-radius: 1rem" />
 
 </details>
 
